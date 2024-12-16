@@ -1,2 +1,6 @@
 # 30_Days_challenge
 SkillRack Daily Code Challenges 
+## Day 1: Sum of Digits Divisible by K
+
+### Question  
+The program must accept two integers **N** and **K** as input. The program must print the count of integers from **1** to **N** having the sum of digits divisible by **K**.
