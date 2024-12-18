@@ -1,0 +1,21 @@
+Problem Statement
+Given an array of integers, the goal is to determine if it can be split into three contiguous non-empty parts such that the sum of each part is the same. If such a split is possible, return true. Otherwise, return false.
+
+Example:
+Input:
+
+css
+Copy code
+arr = [1, 2, 3, 0, 3, 2, 1]
+Output:
+
+arduino
+Copy code
+true
+Explanation:
+
+The array can be split into three parts: [1, 2, 3], [0], and [3, 2, 1]. The sum of each part is 6.
+
+Constraints:
+The length of the array is at least 3.
+Each element in the array is an integer (positive, negative, or zero).
