@@ -1,5 +1,8 @@
 # 30_Days_challenge
+
 SkillRack Daily Code Challenges 
+These code are based on the My Knowledge Implementation & Understanding !!!
+
 ## Day 1: Sum of Digits Divisible by K
 
 ### Question  
